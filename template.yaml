@@ -3,14 +3,14 @@ kind: Template
 metadata:
   name: k3t-java-spring-rest
   title: Java Spring Boot Rest API
-  description: 
+  description: Cria um microserviço com exposição Rest usando Java e Springboot framework
   tags:
     - java
     - rest
     - springboot
     - api
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: service
   parameters:
     - title: Provide some simple information
